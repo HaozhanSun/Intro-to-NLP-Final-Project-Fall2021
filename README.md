@@ -6,11 +6,5 @@ This repository contains the following:
 
 1. The 3 **jupyter notebooks** of all our code to run subtask A, B and C. There are clear titles introducing which blocks do what.
 2. The final report.
-3. The datasets we used for Task A, B and C (folders [relative link](TaskA_data), [relative link](TaskB_data) and [relative link](TaskC_data))
-4. The utils used in the code [relative link](src).
-
-## To be submitted:
-1. 3 x notebooks
-2. utils
-3. training set
-4. report
+3. The datasets we used for Task A, B and C (folders [TaskA_data](TaskA_data), [TaskB_data](TaskB_data) and [TaskC_data](TaskC_data))
+4. The utils used in the code [src](src).
